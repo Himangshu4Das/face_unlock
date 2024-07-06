@@ -1,0 +1,2 @@
+include README.md
+include face_unlock/pam_face_recognition.py
